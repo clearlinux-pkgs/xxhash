@@ -4,7 +4,7 @@
 #
 Name     : xxhash
 Version  : 1.4.4
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/e4/bc/336b9f0c1910ca7efd0c77926f108fe4ebf9451764b434067fa2b3c276b1/xxhash-1.4.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e4/bc/336b9f0c1910ca7efd0c77926f108fe4ebf9451764b434067fa2b3c276b1/xxhash-1.4.4.tar.gz
 Summary  : Python binding for xxHash
