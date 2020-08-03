@@ -1,5 +1,5 @@
 PKG_NAME := xxhash
-URL = https://files.pythonhosted.org/packages/e4/bc/336b9f0c1910ca7efd0c77926f108fe4ebf9451764b434067fa2b3c276b1/xxhash-1.4.4.tar.gz
+URL = https://files.pythonhosted.org/packages/6b/64/684870b30b21842618bf3b76378fd32eda944aeb164090746b9a8b70232f/xxhash-2.0.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
