@@ -4,7 +4,7 @@
 #
 Name     : xxhash
 Version  : 2.0.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/6b/64/684870b30b21842618bf3b76378fd32eda944aeb164090746b9a8b70232f/xxhash-2.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6b/64/684870b30b21842618bf3b76378fd32eda944aeb164090746b9a8b70232f/xxhash-2.0.0.tar.gz
 Summary  : Python binding for xxHash
